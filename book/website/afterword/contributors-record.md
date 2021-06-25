@@ -1,4 +1,4 @@
-(aw-contributors-record-highlights)=
+(contributors-record-highlights)=
 # Record of Contributions
 
 *The `contributors.md` file and the contributors table in the `README file` together form the record of contributions in _The Turing Way_.*
@@ -806,8 +806,7 @@ Details of each members with their contributions have been listed alphabetically
 
 * Personal highlights:
 > I have personally contributed to _The Turing Way_ by drafting chapters in the guide for Reproducible Research, reviewed other contributor's Pull Requests and mentored contributions from Netherlands eScience Center.
-
-(aw-contributors-record-contributors)=
+\n(contributors-record-contributors)=
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
